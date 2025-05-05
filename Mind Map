@@ -1,0 +1,207 @@
+# Jack Evertzberg Development – Mind‑Map & High‑Level Gantt (v0.2)
+
+> **Purpose of this canvas:** provide a visual‑text framework we can iterate on together. Feel free to comment, reorder, or add branches/dates. 🔄
+
+---
+
+## 🗺️ Mind‑Map (Hierarchical Outline)
+
+```
+Jack Evertzberg Development
+├── Vision & Positioning
+│   ├─ Purpose: flagship mixed‑use waterfront
+│   └─ Brand Promise: “Caribbean elegance reimagined”
+├── Master‑Plan Zoning (1.2 M m²)
+│   ├─ Luxury Tourist Zone (450 k m²)
+│   │   ├─ Iconic Hotels & Resorts
+│   │   ├─ Cultural Village (museums, art, markets)
+│   │   ├─ Entertainment Hub (bars, convention ctr.)
+│   │   ├─ Retail Promenade (luxury boutiques)
+│   │   └─ Sustainable Ops (zero‑waste, renewables)
+│   ├─ Exclusive Residential Communities (400 k m²)
+│   │   ├─ Oceanfront Villas & Estates
+│   │   ├─ Gated Neighborhoods (smart homes)
+│   │   ├─ Private Island Development
+│   │   ├─ Community Amenities (clubs, schools)
+│   │   └─ Green Living Initiatives (EV, gardens)
+│   └─ Recreational & Green Spaces (350 k m²)
+│       ├─ Championship Golf Course
+│       ├─ Equestrian Center & Track
+│       ├─ Marina & Super‑Yacht Club
+│       ├─ Adventure Park (zip lines, trails)
+│       └─ Conservation Zones (reef program)
+├── Technology & Innovation
+│   ├─ Smart‑City Layer (IoT, 5G mesh)
+│   ├─ Blockchain Integration (tokenization)
+│   ├─ XR / VR (digital twins, AR way‑finding)
+│   └─ Net‑Zero Path (solar, desalination, recycling)
+├── Phased Development
+│   ├─ Phase 1 – Foundation & Early Activation (Y1)
+│   │   ├─ Infrastructure & Utilities
+│   │   ├─ Beach Club Soft Launch
+│   │   └─ Sales Gallery / Marketing Center
+│   ├─ Phase 2 – Residential & Tourist Uplift (Y2‑3)
+│   │   ├─ Villa Cluster #1
+│   │   ├─ Hotel Tower #1
+│   │   └─ Marina Basin
+│   └─ Phase 3 – Completion & Enhancement (Y4‑5)
+│       ├─ Golf Course & Equestrian Complex
+│       ├─ Resort Grand Opening
+│       └─ Full AI Property Platform Go‑Live
+├── Financial & Partnerships
+│   ├─ Capital Stack (seed, Series‑A, green bonds, token sale)
+│   ├─ Revenue Streams (real‑estate, ADR/F&B, marina, memberships)
+│   └─ Target IRR 18‑22 %
+├── Governance & ESG
+│   ├─ Regulatory Alignment & Permits
+│   ├─ Construction Risk Mgmt (BIM, EPC contracts)
+│   ├─ Social License (jobs, skills‑transfer)
+│   └─ Climate Resilience (4 m FFE, stormwater grid)
+└── 90‑Day Sprint
+    ├─ Master‑Plan Refinement
+    ├─ Permitting Package (EIA scope)
+    ├─ Capital Stack Teaser & Data‑Room
+    ├─ Brand & Go‑To‑Market (microsite, VR demo)
+    └─ Community Engagement (town‑halls)
+```
+
+---
+
+## 📊 High‑Level Gantt Snapshot (Months 0‑60)
+
+*(Owner column added; milestones listed separately below.)*
+
+| Phase | Workstream                 | Start (mo) | End (mo) | Duration | **Owner**            |
+| ----- | -------------------------- | ---------- | -------- | -------- | -------------------- |
+| 1     | Land Servicing & Utilities | 0          | 6        | 6 m      | **Dev Director**     |
+| 1     | Beach Club + Sales Gallery | 4          | 12       | 8 m      | **Hospitality Lead** |
+| 1     | Presales & Marketing Blitz | 6          | 18       | 12 m     | **CMO**              |
+| 2     | Villa Cluster #1           | 12         | 30       | 18 m     | **Residential PM**   |
+| 2     | Hotel Tower #1             | 16         | 32       | 16 m     | **Hospitality Lead** |
+| 2     | Marina Basin               | 20         | 32       | 12 m     | **Marine Works PM**  |
+| 3     | Golf Course & Greens       | 36         | 48       | 12 m     | **Recreation PM**    |
+| 3     | Equestrian Complex         | 40         | 50       | 10 m     | **Recreation PM**    |
+| 3     | Resort Grand Opening       | 48         | 60       | 12 m     | **CEO / CMO**        |
+
+```
+Gantt sketch (quarters)
+Y0  |█ Land ►►►►►►|
+Y1  |    █ Beach Club ►►►►|
+Y1‑2|      █ Presales ►►►►►►|
+Y2‑3|            █ Villas ►►►►►►►►►|
+Y2‑3|                █ Hotel ►►►►►►►|
+Y2‑3|                    █ Marina ►►►►►|
+Y4  |                            █ Golf ►►►►►|
+Y4‑5|                                █ Equestrian ►►►►|
+Y5  |                                    █ Opening ►►►|
+```
+
+---
+
+### 🎯 Key Milestones (💎 markers)
+
+| Milestone                     | Target Month | Linked Phase | **Owner**        |
+| ----------------------------- | ------------ | ------------ | ---------------- |
+| Utilities Commissioned        | 6            | Phase 1      | Dev Director     |
+| Sales Gallery Grand Opening   | 12           | Phase 1      | Hospitality Lead |
+| Villa Cluster #1 Topped Out   | 24           | Phase 2      | Residential PM   |
+| Hotel Tower #1 Topped Out     | 28           | Phase 2      | Hospitality Lead |
+| Marina Dredging Complete      | 26           | Phase 2      | Marine Works PM  |
+| Golf Course Grassing Complete | 44           | Phase 3      | Recreation PM    |
+| Resort Soft‑Opening           | 54           | Phase 3      | CEO / CMO        |
+
+---
+
+## ⚠️ Risk & Contingency Register (living sidebar)
+
+| # | Risk                           | Prob. | Impact | Mitigation                                                          | **Owner**    |
+| - | ------------------------------ | ----- | ------ | ------------------------------------------------------------------- | ------------ |
+| 1 | Construction cost inflation    | Med   | High   | Fixed‑price EPC contracts, early bulk‑buy of steel & concrete       | CFO          |
+| 2 | Zoning / permit delays         | Med   | High   | Dedicated legal counsel, proactive govt liaison, buffer in schedule | Legal & ESG  |
+| 3 | FX rate volatility (USD ↔ ANG) | High  | Med    | Hedge via forward contracts, multi‑currency escrow                  | CFO          |
+| 4 | Hurricane event                | Low   | High   | 4 m FFE, Cat‑5 façades, business‑interruption insurance             | Dev Director |
+| 5 | Community opposition           | Low   | Med    | Monthly town‑halls, local hiring targets, CSR fund                  | CSR Lead     |
+| 6 | Tech integration overruns      | Med   | Med    | Agile sprints, phased roll‑out, vendor SLAs                         | CTO          |
+
+> *Register reviewed monthly; update probability/impact as project evolves.*
+
+---
+
+## 📅 90‑Day Sprint Board (Weeks 1‑18)
+
+| Sprint | Calendar Weeks\* | Epic Focus             | Key Deliverables (JIRA‑style)                                                               | Owner(s)                           | DoD / Acceptance                             |
+| ------ | ---------------- | ---------------------- | ------------------------------------------------------------------------------------------- | ---------------------------------- | -------------------------------------------- |
+| 1      | W1‑2             | Master‑Plan Refinement | • Kick‑off workshop<br>• Baseline data pack compiled<br>• Scope freeze for master‑plan v0.3 | Dev Director (R), Lead Planner (A) | Scope sign‑off logged in Confluence          |
+| 2      | W3‑4             | Permitting Package     | • Draft EIA outline<br>• Stakeholder matrix<br>• Govt pre‑consult booked                    | Legal & ESG (R), CSR Lead (C)      | EIA outline uploaded; meeting date confirmed |
+| 3      | W5‑6             | Capital Stack Teaser   | • Investor teaser deck v1<br>• Data‑room architecture ready                                 | CFO (R), CMO (C)                   | Teaser sent to 3 target funds                |
+| 4      | W7‑8             | Brand & Go‑To‑Market   | • Naming workshop output<br>• Brand mood‑board<br>• Website wireframe                       | CMO (R), Hospitality Lead (C)      | Brand board approved; Figma wireframe signed |
+| 5      | W9‑10            | Master‑Plan Refinement | • BIM clash‑check v1<br>• Cost plan update ±10 %                                            | Dev Director (R), QS (C)           | BIM exported; cost variance < 10 %           |
+| 6      | W11‑12           | Community Engagement   | • Town‑hall #1 executed<br>• Press release draft<br>• Local vendor registry kick‑off        | CSR Lead (R), CMO (C)              | >50 attendees; media pickup secured          |
+| 7      | W13‑14           | Permitting Package     | • EIA draft §§ 1‑3<br>• Zoning amendment draft                                              | Legal & ESG (R), Lead Planner (C)  | Internal legal review complete               |
+| 8      | W15‑16           | Capital Stack Teaser   | • Financial model v0.9<br>• Debt term‑sheet shortlist                                       | CFO (R), Residential PM (C)        | Model audited; 3 lenders engaged             |
+| 9      | W17‑18           | Brand & XR Launch      | • VR demo v1<br>• Microsite live<br>• Influencer fam‑trip plan                              | CMO (R), CTO (C)                   | VR demo playable; microsite uptime ≥99 %     |
+
+> *Assumes project start at Month 0. Dates to be finalized at kickoff.*
+
+---
+
+## 🗓️ Five‑Year Strategic Plan (Y0 → Y5)
+
+| Year    | Strategic Theme                                      | Top‑Line Objectives                                                              | Major Deliverables                                                                                                             | KPIs / Success Metrics                                                                             |
+| ------- | ---------------------------------------------------- | -------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------- |
+| **0‑1** | **Foundation & Early Activation**                    | • Secure permits & utilities<br>• Launch brand awareness<br>• Kick‑off presales  | • Utilities commissioned (💎 M01‑06)<br>• Beach Club & Sales Gallery ready (M04‑12)<br>• Master‑Plan v0.3 locked               | • 100 % utilities online<br>• ≥30 % villa presales<br>• Social‑license sentiment > 70 % positive   |
+| **1‑2** | **Residential & Tourist Uplift**                     | • Build initial residential & hotel inventory<br>• Activate marina basin         | • Villa Cluster #1 topped‑out (💎 M24)<br>• Hotel Tower #1 topped‑out (💎 M28)<br>• Marina dredging complete (💎 M26)          | • ≥60 % villas sold<br>• Hotel ADR forecast hit 90 % of pro‑forma<br>• Yacht berth bookings > 50 % |
+| **2‑3** | **Revenue Ramp & Amenities Build‑Out**               | • Open hotel soft and drive occupancy<br>• Finalize golf & equestrian earthworks | • Soft‑open hotel floors 1‑10 (M32‑36)<br>• Begin golf course grassing (M36)<br>• Equestrian complex structural complete (M40) | • Hotel occupancy ≥ 65 % <br>• F\&B capture ≥ 45 %<br>• 3 signature events hosted                  |
+| **3‑4** | **Experiential Enhancement & Community Integration** | • Complete golf, equestrian, adventure park<br>• Scale smart‑city & AI platform  | • Golf course grassing complete (💎 M44)<br>• AI property‑mgmt beta (M46)<br>• Adventure park ribbon‑cutting (M48)             | • Customer NPS ≥ 70<br>• Energy from renewables ≥ 35 %<br>• 500 local jobs created                 |
+| **4‑5** | **Grand Opening & Optimization**                     | • Full resort opening & brand launch<br>• Optimize ops & financial performance   | • Resort soft‑opening (💎 M54)<br>• Grand Opening Gala (M60)<br>• Tokenization Phase‑2 rollout                                 | • IRR run‑rate ≥ 18 %<br>• Resort RevPAR ≥ 110 % of comp set<br>• ESG KPIs met for LEED Gold       |
+
+> *KPIs reviewed quarterly; adjust targets as data matures.*
+
+---
+
+## 💰 Financial Projection Summary (USD millions)
+
+### CapEx & Funding Schedule
+
+| Year      | CapEx Outflow | Cumulative CapEx | Equity Draw (40 %) | Debt Draw (60 %) |
+| --------- | ------------- | ---------------- | ------------------ | ---------------- |
+| Y0‑1      | 280           | 280              | 112                | 168              |
+| Y1‑2      | 350           | 630              | 140                | 210              |
+| Y2‑3      | 260           | 890              | 104                | 156              |
+| Y3‑4      | 150           | 1,040            | 60                 | 90               |
+| Y4‑5      | 60            | 1,100            | 24                 | 36               |
+| **Total** | **1,100**     | —                | **440**            | **660**          |
+
+### Pro‑Forma P\&L Snapshot (Five‑Year)
+
+| Metric                 | Y0‑1    | Y1‑2    | Y2‑3    | Y3‑4    | Y4‑5    | **5‑Yr Total** |
+| ---------------------- | ------- | ------- | ------- | ------- | ------- | -------------- |
+| **Revenue Streams**    |         |         |         |         |         |                |
+|   Real Estate Sales    | 150     | 300     | 250     | 150     | 50      | 900            |
+|   Hotel & Resort Ops   | —       | —       | 40      | 90      | 120     | 250            |
+|   Marina & Memberships | —       | —       | 10      | 25      | 35      | 70             |
+|   Golf & Equestrian    | —       | —       | —       | 15      | 25      | 40             |
+|   Retail & Misc.       | —       | —       | —       | —       | 5       | 5              |
+| **Total Revenue**      | **150** | **300** | **300** | **280** | **235** | **1,265**      |
+| **Direct Costs**       | (90)    | (180)   | (179)   | (166)   | (133)   | (748)          |
+| **Corporate Opex**     | (10)    | (20)    | (15)    | (18)    | (20)    | (83)           |
+| **EBITDA**             | **50**  | **100** | **106** | **96**  | **82**  | **434**        |
+| Debt Service\*         | —       | (6)     | (26)    | (38)    | (40)    | (110)          |
+| **Free Cash Flow**     | **50**  | **94**  | **80**  | **58**  | **42**  | **324**        |
+
+*Debt service assumes 6 % fixed rate; interest‑only through Y1‑2, then 15‑year amortization starting Y2‑3.*
+
+> **Equity IRR (5‑yr exit):** \~19 % assuming conservative terminal cap rate and 3× hotel EBITDA multiple.
+
+---
+
+### ✨ How to Use
+
+1. **Mind‑map:** add or delete branches; leave 👉 comments for details.
+2. **Gantt & Milestones:** update dates, owners, or durations; link milestones to payment draws.
+3. **Risk Register:** log new risks, adjust RAG status.
+4. Ping me when you’re ready for week‑level tasks, resource loading, or a Smartsheet import.
+
+---
+
+*Version: May 2025 | Author: Sahid Attaf (updated via ChatGPT)*
